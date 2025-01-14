@@ -8,7 +8,7 @@ public class DadosPrimitivos {
         * Objetivo da aula: Criar um ninja - Naruto -
         **/
 
-        int view  = 2147483647; // Valor máximo: 2 147 483 647
+        int view  = 2147483648; // Valor máximo: 2 147 483 647
         double altura = 1.65;
         char inicial = 'N';
         boolean vivoOuMorto = true;
